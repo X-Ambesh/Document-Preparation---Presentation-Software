@@ -1,1 +1,46 @@
 # Document-Preparation---Presentation-Software
+Input Code ()
+  \documentclass[11pt]{article}
+  \pagestyle{empty}
+  \usepackage{amsmath,amssymb,amsfonts}
+
+  \begin{document}
+# superscripts $$2x^3$$
+  $$2x^{34}$$
+  $$2x^{3x+4}$$
+  $$2x^{3x^4+5}$$
+  $$x_{1_{2_3}}$$
+  $$a_0,a_1,a_2,\ldots,a_{100}$$
+#Greek letters
+  $$\pi$$
+  $$\Pi$$
+  $$\alpha$$
+  $$A=\pi r^2$$
+#trig functions
+  $$y=\sin x$$
+  $$y=\csc\theta$$
+  $$y=\sin^{-1}x$$
+  $$y=\arcsin x$$
+  Log functions
+  $$y=\log x$$
+  $$y=\log_5 x$$
+  $$y=\ln x$$
+#roots
+  $$\sqrt{2}$$
+  $$\sqrt[3]{2}$$
+  $$\sqrt{x^2+y^2}$$
+  $$\sqrt{1+\sqrt{x}}$$
+#Fractions
+  $$\frac{2}{3}$$
+  About $\displaystyle \frac{2}{3}$ of the glass is
+  full.\\[16pt]
+
+  About $\dfrac{2}{3}$ of the glass is full
+
+  $$\frac{\sqrt{x+1}}{\sqrt{x+2}}$$
+  $$\frac{1}{   1+\frac{1}{x}  }$$
+
+  The distributive property states that $a(b+c)=ab+ac$, for all $a,b,c \in \mathbb(R)$.
+
+
+  \end{document}
