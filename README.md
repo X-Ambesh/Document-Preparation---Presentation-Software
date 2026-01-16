@@ -1,12 +1,12 @@
 # Document-Preparation---Presentation-Software
-Input Code ()
+
   \documentclass[11pt]{article}
   \pagestyle{empty}
   \usepackage{amsmath,amssymb,amsfonts}
 
   \begin{document}
-Input Code ()
-# superscripts $$2x^3$$
+
+#superscripts $$2x^3$$
   $$2x^{34}$$
   $$2x^{3x+4}$$
   $$2x^{3x^4+5}$$
