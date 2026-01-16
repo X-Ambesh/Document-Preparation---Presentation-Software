@@ -5,6 +5,7 @@ Input Code ()
   \usepackage{amsmath,amssymb,amsfonts}
 
   \begin{document}
+Input Code ()
 # superscripts $$2x^3$$
   $$2x^{34}$$
   $$2x^{3x+4}$$
