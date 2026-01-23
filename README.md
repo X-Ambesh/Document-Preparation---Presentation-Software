@@ -1,12 +1,13 @@
 # Document-Preparation---Presentation-Software
+##Preamble  
 
-  \documentclass[11pt]{article}
-  \pagestyle{empty}
-  \usepackage{amsmath,amssymb,amsfonts}
+    \documentclass[11pt]{article}  
+    \pagestyle{empty}  
+    \usepackage{amsmath,amssymb,amsfonts}  
+    \begin{document}  
 
-  \begin{document}
-
-#superscripts $$2x^3$$
+#superscripts  and subscripts
+  $$2x^3$$
   $$2x^{34}$$
   $$2x^{3x+4}$$
   $$2x^{3x^4+5}$$
